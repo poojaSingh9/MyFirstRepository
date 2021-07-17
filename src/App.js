@@ -6,9 +6,10 @@ function App() {
     <div className="App">
     <h2> Hellow my world</h2>
     <p>Lorem20
-      
+
 
     </p>
+    <h1> I like the way</h1>
     </div>
   );
 }
